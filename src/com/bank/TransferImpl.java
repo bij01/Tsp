@@ -6,7 +6,7 @@ public class TransferImpl implements Transfer {
 
 	@Override
 	public boolean isMember(String email) {
-		// TODO Auto-generated method stub
+		System.out.println("email");
 		return false;
 	}
 
